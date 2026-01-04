@@ -1,0 +1,7 @@
+{
+  "name": "VimaControl - Manejo Inteligente",
+  "description": "Uma plataforma completa para gestão de rebanho bovino, permitindo controle de saúde, produção leiteira e assistência via IA para pecuaristas.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
